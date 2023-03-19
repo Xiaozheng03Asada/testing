@@ -1,9 +1,9 @@
 http://example.com/messageboard/index.html
+http://example.com/Gallery/index.html
 http://example.com/2023/03/14/My-New-Post/
 http://example.com/2023/03/19/self-introduction/
 http://example.com/Gallery/%E5%B0%8F%E9%83%91%E5%8E%BB%E6%97%85%E8%A1%8C%EF%BC%81/index.html
 http://example.com/Gallery/%E7%94%B5%E5%AD%90%E6%B8%B8%E6%88%8F%E6%88%90%E5%B0%B1%E5%B1%8B/index.html
-http://example.com/Gallery/index.html
 http://example.com/link/index.html
 http://example.com/music/index.html
 http://example.com/guestbook/index.html
