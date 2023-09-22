@@ -4,6 +4,131 @@
   
     
     <entry>
+      <title>JAVA程序设计笔记</title>
+      <link href="/2023/09/22/Java%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/"/>
+      <url>/2023/09/22/Java%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/</url>
+      
+        <content type="html"><![CDATA[<p>java课程<br>如何引用库？<br>post/get——短链接<br>Socket——长连接<br>跨平台实现——JVM<br>JIT代码生成器——加速器<br>标识符表示变量、方法和类<br>字母、数字、（下划线、美元符）<br>驼峰式写法 GoodStudentScore<br>动词小写+后首字母大写 —— 方法<br>数据库里面写字段用蛇形写法，下划线<br>url也用下划线<br>工程文件全部小写<br>堆、栈、方法域<br>ref引用<br>栈 ：目录 删除后立刻被释放<br>堆 ：相当于硬盘 此时区域里存储的内容undefined（注意：不是null）<br>switch case 记得写 break<br>switch case 比 for嵌套快非常多，适合明确条件判断</p><p>math所有元素都是static的<br>能被class之间点出来的method，一定是static的</p><p>PI E</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 大二上 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 笔记 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>数字电路笔记</title>
+      <link href="/2023/09/22/%E6%95%B0%E5%AD%97%E7%94%B5%E8%B7%AF/"/>
+      <url>/2023/09/22/%E6%95%B0%E5%AD%97%E7%94%B5%E8%B7%AF/</url>
+      
+        <content type="html"><![CDATA[<h1 id="数制码制"><a href="#数制码制" class="headerlink" title="数制码制"></a>数制码制</h1><h1 id="逻辑代数"><a href="#逻辑代数" class="headerlink" title="逻辑代数"></a>逻辑代数</h1>]]></content>
+      
+      
+      <categories>
+          
+          <category> 大二上 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 笔记 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>中国行政管理期刊论文粗度</title>
+      <link href="/2023/09/22/%E4%B8%AD%E5%9B%BD%E8%A1%8C%E6%94%BF%E7%AE%A1%E7%90%86%E8%AE%BA%E6%96%87%E7%B2%97%E8%AF%BB/"/>
+      <url>/2023/09/22/%E4%B8%AD%E5%9B%BD%E8%A1%8C%E6%94%BF%E7%AE%A1%E7%90%86%E8%AE%BA%E6%96%87%E7%B2%97%E8%AF%BB/</url>
+      
+        <content type="html"><![CDATA[<h2 id="行政改革"><a href="#行政改革" class="headerlink" title="行政改革"></a>行政改革</h2><ul><li>不同层级政府之间的内在关系和运作逻辑</li></ul><p>海洋机构具有典型性；<br>地方政府跟进的逻辑：</p><ol><li>驱动逻辑：层级角色的差异认知，政府机构要体现中央与地方治理诉求的差异，中央管理宏观事务，地方管理地区性事务。</li><li>模式逻辑：委托代理与行政发包的交织融合。中央政府在日益密集的权力结构中需要依靠地方的“代理人”进行治理，地方政府跟进，贯彻落实部署要求，一定程度上上方依照“委托-代理”路径。而中央对不同层级地方政府的监督管理幅度不同，省以下机构改革的管理权限会被划分给省级政府。这个时候中央就是改革的发包方，省级政府成为改革的承包方，命令逐级传递，省级政府也会成为新的发包方……</li><li>方法逻辑：双轨渐进与试点先行并举。中国各个方面的改革与转型过程存在一种潜在的“中国模式”，实验性和适应性的改革方法，有时被称为“摸着石头过河”。<br> 所谓双轨制，就是地方政府改革跟进中，呈现与中央保持一致和差异的“两条线”并存局面，逐步推进改革，稳妥。</li></ol><h2 id="数字政府"><a href="#数字政府" class="headerlink" title="数字政府"></a>数字政府</h2><ul><li><p>区块链</p></li><li><p>政务信息公开中对公众信息权的探索</p></li><li><p>数字身份管理</p></li></ul><h2 id="公共政策"><a href="#公共政策" class="headerlink" title="公共政策"></a>公共政策</h2><p>政策效果评估</p><h2 id="公共安全"><a href="#公共安全" class="headerlink" title="公共安全"></a>公共安全</h2><ul><li>自然灾害响应中的志愿者协作——基于卓明灾害信息服务中心的案例研究</li></ul><p>协作机制的构建和完善是提升救灾效率的关键。将救灾志愿者分为“组织者、核心志愿者、外围志愿者”的同心圆模式，设置内部协作要素“动力-能力-规范”，设置外部</p><h2 id="国外经验借鉴"><a href="#国外经验借鉴" class="headerlink" title="国外经验借鉴"></a>国外经验借鉴</h2><p>日本的健康政策经验，上升为国家战略<br>健康促进“国民运动化、国家战略化”</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 大二上 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 笔记 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>数据结构笔记</title>
+      <link href="/2023/09/22/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E7%AC%94%E8%AE%B0(Markdown%E5%88%9D%E5%B0%9D%E8%AF%95)/"/>
+      <url>/2023/09/22/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E7%AC%94%E8%AE%B0(Markdown%E5%88%9D%E5%B0%9D%E8%AF%95)/</url>
+      
+        <content type="html"><![CDATA[<h1 id="数据结构-学习数据的存储与组织方法"><a href="#数据结构-学习数据的存储与组织方法" class="headerlink" title="数据结构 学习数据的存储与组织方法"></a>数据结构 学习数据的存储与组织方法</h1><p>数组、链表、栈、队列、树、图</p><h1 id="优先级队列"><a href="#优先级队列" class="headerlink" title="优先级队列"></a>优先级队列</h1><h2 id="堆排序"><a href="#堆排序" class="headerlink" title="堆排序"></a>堆排序</h2><h1 id="搜索树"><a href="#搜索树" class="headerlink" title="搜索树"></a>搜索树</h1><p>比调表和散列表有更好或类似的效果<br>尤其擅长顺序访问或按排名访问</p><ul><li>二叉搜索树：可能为空的二叉树，可以不是完全二叉树</li></ul><p>非空的二叉搜索树满足：</p><ol><li>每个元素都有唯一关键字</li><li>根节点左子树的关键字一定小于根节点的关键字</li><li>根节点右子树的关键字一定大于根节点的关键字（与堆？不同）</li><li>根节点的左右子树都是二叉搜索树</li></ol><ul><li>索引二叉树：在每个节点添加一个“LeftSize”</li></ul><p>操作<br>insert : O(height)<br>erase : 三种情况</p><ol><li>p是树叶</li><li>p只有一个非空子树</li><li>p有两个非空子树</li></ol><h1 id="图"><a href="#图" class="headerlink" title="图"></a>图</h1><p>权重 有无向 节点相连</p><h2 id="应用"><a href="#应用" class="headerlink" title="应用"></a>应用</h2><h3 id="路径问题"><a href="#路径问题" class="headerlink" title="路径问题"></a>路径问题</h3><p>路径、简单路径</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 大二上 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 笔记 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>费老师与薛老师的公管数模讲座</title>
+      <link href="/2023/09/20/%E8%B4%B9%E8%80%81%E5%B8%88%E4%B8%8E%E8%96%9B%E5%A4%A7%E5%B8%88%E7%9A%84%E6%95%B0%E6%A8%A1%E8%AE%B2%E5%BA%A7/"/>
+      <url>/2023/09/20/%E8%B4%B9%E8%80%81%E5%B8%88%E4%B8%8E%E8%96%9B%E5%A4%A7%E5%B8%88%E7%9A%84%E6%95%B0%E6%A8%A1%E8%AE%B2%E5%BA%A7/</url>
+      
+        <content type="html"><![CDATA[<h3 id="十种问题类别"><a href="#十种问题类别" class="headerlink" title="十种问题类别"></a>十种问题类别</h3><pre><code>线性规划微分方程建模蒙特卡洛模拟离散事件模拟时间序列分析网络流问题图论和最短路径问题整数规划统计建模随机过程</code></pre><h3 id="数学建模再公共管理上的应用——以地震志愿者分配为例"><a href="#数学建模再公共管理上的应用——以地震志愿者分配为例" class="headerlink" title="数学建模再公共管理上的应用——以地震志愿者分配为例"></a>数学建模再公共管理上的应用——以地震志愿者分配为例</h3><pre><code>公共管理的数学建模和传统的都是寂寞有什么区别</code></pre><ol><li>收集信息 量纲的统一：熵权法/CR</li><li>主观信息的表达：AHP/BWM</li></ol><blockquote><p>心理信息的表达：前景理论、统一量纲<br>证据理论辨识框架 扎徳悖论 遗传算法</p></blockquote><p>算例 符号  </p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 数学建模 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 笔记 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>超级马里奥大电影超好看的说！</title>
       <link href="/2023/04/08/2023-4-8/"/>
       <url>/2023/04/08/2023-4-8/</url>
